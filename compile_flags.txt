@@ -1,0 +1,4 @@
+-std=c11
+-Isrc/brogue
+-Isrc/platform
+-Isrc/variants
